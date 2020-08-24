@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <malloc.h>
 #include <time.h>
-#include "input.h"
+#include "Input.h"
 #include "output.h"
 #include "inssort.h"
 #include "rand.h"
